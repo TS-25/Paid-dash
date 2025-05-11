@@ -1,5 +1,5 @@
 
-<h1 align="center">Draco Dashboard</h1>
+<h1 align="center">Paid Draco Dashboard</h1>
 ## Overview
 
 ## Installation
@@ -15,7 +15,7 @@
 5. Install dependencies:
 `npm install`
 
-6. Start the Panel:
+6. Start the dash:
 `node . # or use pm2 to keep it online`
 
 ## Contributing
